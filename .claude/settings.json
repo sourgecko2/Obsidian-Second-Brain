@@ -1,9 +1,1 @@
-{
-  "permissions": {
-    "deny": [
-      "Read(./Private.noindex/**)",
-      "Edit(./Private.noindex/**)",
-      "Write(./Private.noindex/**)"
-    ]
-  }
-}
+{}
