@@ -1,0 +1,22 @@
+{
+  "minimal-style@@h1-size": "1.5em",
+  "minimal-style@@metadata-dividers": true,
+  "minimal-style@@metadata-heading-off": true,
+  "minimal-style@@metadata-add-property-off": true,
+  "minimal-style@@h2-size": "1.3em",
+  "minimal-style@@inline-title-size": "2em",
+  "minimal-advanced@@animations": "disable-animations",
+  "minimal-style@@list-spacing": 0.085,
+  "minimal-style@@list-indent": 2,
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
+  "minimal-style@@sidebar-tabs-names": "tab-names-off",
+  "minimal-style@@vault-profile-display": "vault-profile-default",
+  "minimal-style@@hide-help": true,
+  "minimal-style@@ribbon-style": "ribbon-hidden",
+  "minimal-style@@tag-radius": "4px",
+  "minimal-style@@tag-border-width": "1px",
+  "minimal-style@@window-title-off": true,
+  "minimal-style@@hide-settings": false,
+  "minimal-style@@icon-muted": 0.5,
+  "minimal-style@@tabs-style": "tabs-modern"
+}

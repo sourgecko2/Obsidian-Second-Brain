@@ -1,0 +1,10 @@
+/* Dim and shrink the raw ^blockid marker in Live Preview
+   (e.g. "^319d99" at the end of a task/paragraph),
+   without touching the block reference links pointing to it. */
+
+.markdown-source-view.mod-cm6 .cm-formatting-blockid,
+.markdown-source-view.mod-cm6 .cm-line span[class*="blockid"] {
+  opacity: 0.35;
+  font-size: 0.75em;
+  vertical-align: middle;
+}

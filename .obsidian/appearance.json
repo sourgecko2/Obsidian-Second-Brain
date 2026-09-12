@@ -1,0 +1,19 @@
+{
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Work Sans,SF Pro Display",
+  "textFontFamily": "EB Garamond",
+  "monospaceFontFamily": "DM Mono,JetBrains Mono",
+  "baseFontSize": 19,
+  "translucency": true,
+  "accentColor": "",
+  "nativeMenus": true,
+  "showRibbon": false,
+  "showViewHeader": false,
+  "baseFontSizeAction": true,
+  "floatingNavigation": true,
+  "enabledCssSnippets": [
+    "block-links",
+    "block-id-dim",
+    "callout-padding"
+  ]
+}

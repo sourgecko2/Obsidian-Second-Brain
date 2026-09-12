@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "search",
+      "ctime": 1788341102042,
+      "query": "task-todo:\"\"",
+      "title": "Open tasks"
+    },
+    {
+      "type": "search",
+      "ctime": 1788341148064,
+      "query": "task-todo:\"\" path:\"Daily Notes\"  ",
+      "title": "Today's goals"
+    },
+    {
+      "type": "search",
+      "ctime": 1788342319908,
+      "query": "tag:#competency/low",
+      "title": "Revision Queue"
+    }
+  ]
+}
