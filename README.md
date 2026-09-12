@@ -1,6 +1,12 @@
 # Obsidian-Second-Brain
 My personal note taking vault accelerated by AI, tags and simple connections.
 
+# Screenshots
+![Screenshot 1](https://raw.githubusercontent.com/sourgecko2/Obsidian-Second-Brain/media/screenshot1.png)
+![Screenshot 2](https://raw.githubusercontent.com/sourgecko2/Obsidian-Second-Brain/media/screenshot2.png)
+![Screenshot 3](https://raw.githubusercontent.com/sourgecko2/Obsidian-Second-Brain/media/screenshot3.png)
+![Screenshot 4](https://raw.githubusercontent.com/sourgecko2/Obsidian-Second-Brain/media/screenshot4.png)
+
 ## Problems with study notes
 Across my entire secondary student life of 5 years or so, I have struggled continuously with finding the right information management system. I have tried many different note-taking apps: Apple Notes, Notion, Obsidian, .txt files and even physical notebooks! None of these systems were searchable, approachable and organised in a way that doesn't leave thoughts and important information lost in endless 'folder rabbit holes'. I wanted something as good and useful as paper that harnesses the power of digital tools and with organisation that doesn't leave me lost. The reality is the intersection between these categories is incredibly hard to build!
 
