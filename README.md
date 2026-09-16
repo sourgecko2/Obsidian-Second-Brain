@@ -16,7 +16,14 @@ A few years ago, I was manually scanning my Notebook pages into an older Obsidia
 The main idea behind this vault is to have a system with three phases: Capture, Processing and Output / Recursion. 
 
 ### Capture
-As for on-the-go capture, I've built some Apple shortcuts to helpe me capture information to a note in my vault, with one press of the action button on my iPhone. I can also use the share sheet to share links, images, text or anything else. 
+As for on-the-go capture, I've built some Apple shortcuts to helpe me capture information to a note in my vault, with one press of the action button on my iPhone.
+
+![gif 1](https://raw.githubusercontent.com/sourgecko2/Obsidian-Second-Brain/media/gif1.gif)
+
+I can also use the share sheet to share links, images, text or anything else. 
+
+![gif 2](https://raw.githubusercontent.com/sourgecko2/Obsidian-Second-Brain/media/gif2.gif)
+![gif 3](https://raw.githubusercontent.com/sourgecko2/Obsidian-Second-Brain/media/gif3.gif)
 
 Within the vault, I can quickly create templated notes with the plugin QuickAdd with a simple hotkey. This allows me to blurt information quickly and organise it in record time.
 
