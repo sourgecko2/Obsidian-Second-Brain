@@ -16,7 +16,7 @@ A few years ago, I was manually scanning my Notebook pages into an older Obsidia
 The main idea behind this vault is to have a system with three phases: Capture, Processing and Output / Recursion. 
 
 ### Capture
-As for on-the-go capture, I've built some Apple shortcuts to helpe me capture information to a note in my vault, with one press of the action button on my iPhone.
+As for on-the-go capture, I've built some Apple shortcuts to help me capture information to a note in my vault, with one press of the action button on my iPhone.
 
 ![gif 2](https://raw.githubusercontent.com/sourgecko2/Obsidian-Second-Brain/media/gif2.gif)
 
